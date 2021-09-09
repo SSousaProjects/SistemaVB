@@ -1,0 +1,15 @@
+C:\Users\ourfa\source\repos\SistemaVB\bin\Debug\SistemaVB.exe.config
+C:\Users\ourfa\source\repos\SistemaVB\bin\Debug\SistemaVB.exe
+C:\Users\ourfa\source\repos\SistemaVB\bin\Debug\SistemaVB.pdb
+C:\Users\ourfa\source\repos\SistemaVB\bin\Debug\SistemaVB.xml
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.vbprojAssemblyReference.cache
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.Resources.resources
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.vbproj.GenerateResource.cache
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.vbproj.CoreCompileInputs.cache
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.exe
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.xml
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.pdb
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.Principal.resources
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.Entrar.resources
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.Funcionarios.resources
+C:\Users\ourfa\source\repos\SistemaVB\obj\Debug\SistemaVB.Clientes.resources
